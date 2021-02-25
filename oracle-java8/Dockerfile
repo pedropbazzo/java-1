@@ -3,7 +3,7 @@
 #
 # https://github.com/dockerfile/java
 # https://github.com/dockerfile/java/tree/master/oracle-java8
-#
+# open jdk process 
 
 # Pull base image.
 FROM ubuntu
